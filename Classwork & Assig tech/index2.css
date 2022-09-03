@@ -1,0 +1,65 @@
+body{
+    background-color: gainsboro;
+    
+}
+.da{
+    border: 1px solid gainsboro;
+    background-color: white;
+    width: 220px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 100px;
+    border-radius: 8px;
+}
+
+.d1{
+    border: 1px solid gainsboro;
+    background-color: rgb(0, 255, 200);
+    width: 220px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 100px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+}
+.dollar{
+    font-size: x-large;
+}
+.SU{
+    width: 180px;
+    background-color: #7fff00;
+    border-radius: 5px;
+    margin-left: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    
+}
+    
+    
+.dc{
+    border: 1px solid gainsboro;
+    background-color: aquamarine;
+    width: 220px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 100px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+}
+h2{
+    font: 1em sans-serif;
+    font-size: x-large;
+}
+.sectionA{
+    margin-left: 50px;
+}
+.sectionB{
+    color: white;
+}
+.dah2{
+    color: aqua;
+}
+.p1{
+    color: chartreuse;
+}

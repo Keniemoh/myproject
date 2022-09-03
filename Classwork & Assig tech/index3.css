@@ -1,0 +1,59 @@
+.bcolor{
+    background-color: beige;
+}
+.d1{
+     background-color: white;
+     /* width: 46%; */
+     width: 47%;
+     padding-top: 24px;
+     padding-bottom: 25px;
+     padding-left: 30px;
+     /* border: 1px; */
+    
+}
+.p1{
+    color: chartreuse;
+}
+.father{
+    /* width: 100%; */
+    display: flex;
+}
+.son1{
+    color: white;
+    width: 21.6%;
+    background-color: rgb(135, 198, 235);
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.d1h1{
+    color: rgb(135, 198, 235);
+}
+.su{
+    width: 21.6%;
+    margin-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10%;
+    border-radius: 10px;
+    background-color: chartreuse;
+    border: none;
+    
+}
+.dollar{
+    font-size: xx-large;   
+}
+.pm{
+    font-size: large;
+}
+.son2{
+    color: white;
+    width: 22.2%;
+    background-color: rgb(135, 220, 235);
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.section{
+    margin-left: 50px;
+    margin-top: 20px;
+}
